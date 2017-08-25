@@ -19,7 +19,7 @@
    
     "background" : {
       "scripts" : [
-      	"bg.js" 
+      	"popup.js" 
     ]
   } 
 
